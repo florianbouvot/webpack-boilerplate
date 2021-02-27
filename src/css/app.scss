@@ -1,0 +1,8 @@
+@tailwind base;
+@import "base/font-face";
+@import "base/img";
+
+@tailwind components;
+@import 'baguettebox.js/dist/baguetteBox.min.css';
+
+@tailwind utilities;
