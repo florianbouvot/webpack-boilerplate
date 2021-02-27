@@ -27,16 +27,9 @@ A boilerplate for building web projects with Webpack 5.
 
 1. Clone repository
 2. Install Node dependencies `npm install`.
-
-### Tasks 
-
-```
-npm run dev
-# Run the development server and watch for changes
-
-npm run build
-# Run the production build
-```
+3. Run tasks:
+  * Development server `npm run dev`
+  * Production build `npm run build`
 
 ## License
 
