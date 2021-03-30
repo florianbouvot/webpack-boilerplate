@@ -73,7 +73,7 @@ module.exports = {
           ['gifsicle'],
           ['mozjpeg', { quality: 50 }],
           ['pngquant', { quality: [0.5, 0.5] }],
-          ['svgo', { plugins: [{ removeViewBox: false }] }],
+          ['svgo'],
         ],
       },
     }),
